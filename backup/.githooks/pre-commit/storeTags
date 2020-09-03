@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+tagbak store
+git add -f .metadata.stash
